@@ -1,1 +1,1 @@
-# y2s2-miniproject
+# Android Mobile Application created with Android Studio
